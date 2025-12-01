@@ -8,7 +8,7 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Mirage - Digital Shield for AI Protection",
+  title: " SovereignSight : Blockchain-Secured Digital Identity for the AI Era",
   description: "Protect your personal images from unauthorized AI training and deepfakes",
   generator: "v0.app",
 }

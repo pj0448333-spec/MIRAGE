@@ -441,7 +441,7 @@ export default function MiragePage() {
             <div className="flex justify-between items-center py-4">
               <div className="flex items-center space-x-2">
                 <Shield className="h-8 w-8 text-blue-600" />
-                <h1 className="text-2xl font-bold text-gray-900">Mirage</h1>
+                <h1 className="text-2xl font-bold text-gray-900"> SovereignSight </h1>
               </div>
               <nav className="flex space-x-4">
                 <Button variant="ghost" onClick={() => setActiveTab("home")}>
@@ -624,7 +624,7 @@ export default function MiragePage() {
             <div className="flex justify-between items-center py-4">
               <div className="flex items-center space-x-2">
                 <Shield className="h-8 w-8 text-blue-600" />
-                <h1 className="text-2xl font-bold text-gray-900">Mirage</h1>
+                <h1 className="text-2xl font-bold text-gray-900"> SovereignSight</h1>
                 <Badge variant="secondary" className="text-xs">
                   v2.0
                 </Badge>
@@ -644,7 +644,7 @@ export default function MiragePage() {
 
         <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <div className="text-center mb-12">
-            <h2 className="text-4xl font-bold text-gray-900 mb-4">The Digital Shield for Faces Lost in AI's Mirage</h2>
+            <h2 className="text-4xl font-bold text-gray-900 mb-4">Blockchain-Secured Digital Identity for the AI Era</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-8">
               Advanced CID-based tracking with user-controlled removal from blockchain networks and web platforms using
               smart contract enforcement.
@@ -741,7 +741,7 @@ export default function MiragePage() {
             <div className="flex justify-between items-center py-4">
               <div className="flex items-center space-x-2">
                 <Shield className="h-8 w-8 text-blue-600" />
-                <h1 className="text-2xl font-bold text-gray-900">Mirage</h1>
+                <h1 className="text-2xl font-bold text-gray-900">SovereignSight</h1>
               </div>
               <nav className="flex space-x-4">
                 <Button variant="ghost" onClick={() => setActiveTab("home")}>
@@ -884,7 +884,7 @@ export default function MiragePage() {
           <div className="flex justify-between items-center py-4">
             <div className="flex items-center space-x-2">
               <Shield className="h-8 w-8 text-blue-600" />
-              <h1 className="text-2xl font-bold text-gray-900">Mirage</h1>
+              <h1 className="text-2xl font-bold text-gray-900">SovereignSight</h1>
             </div>
             <nav className="flex space-x-4">
               <Button variant="ghost" onClick={() => setActiveTab("home")}>
